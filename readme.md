@@ -1,4 +1,4 @@
-### CLONE STADIA
+# CLONE STADIA
 Aims to replicate stadia on a local system
 
 ## REQUIRED MODULE
